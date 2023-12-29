@@ -1,4 +1,4 @@
-# Django Student Dashboard Project
+# Student Study Helper
 
 ## Overview
 
